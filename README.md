@@ -1,5 +1,43 @@
 # Portfolio Project — King Joshua Marcos
 
+---
+
+## Chosen Topic
+
+AI-Powered SEO Content Production
+
+This topic was selected because it combines:
+- AI tools
+- scalable content systems
+- and real-world demand for growth in B2B SaaS
+
+The research focuses on how experts use AI, content, and outbound strategies to generate pipeline and drive growth.
+
+---
+
+## Project Overview
+
+This project analyzes 10 experts in outbound, sales, and growth to identify patterns that drive real pipeline.
+
+The goal was not just to collect content, but to synthesize it into a practical outbound system that can be used in real-world B2B SaaS environments.
+
+The output includes:
+- Expert research (LinkedIn + YouTube)
+- Key patterns across experts
+- A structured outbound playbook
+- Practical outreach templates
+
+---
+
+## Outbound Playbook
+
+I synthesized insights from 10 experts into a structured outbound system covering targeting, messaging, execution, and scaling.
+
+See full playbook here:  
+/research/other/outreach-playbook.md
+
+---
+
 ## Tools Installed
 - **Cursor IDE** — My primary development environment for building and maintaining ModlyAI
 - **Claude Code** — Used for reasoning, debugging, and structuring logic
@@ -40,13 +78,20 @@
 
 ## What I Learned
 
-Using Claude Code and Codex together inside Cursor made the differences between them very clear.
+The biggest insight from this project is that outbound is not about a single tactic — it is a system.
 
-Claude Code is stronger at reasoning through problems, explaining decisions, and helping structure logic. Codex is faster for generating boilerplate and accelerating simple tasks.
+Across all experts, the same patterns emerged:
 
-Using both together creates a more efficient workflow — one handles thinking, the other handles speed.
+- Strong targeting using real signals (not random lists)
+- Clear, short messaging focused on problems, not products
+- Low-pressure communication that builds trust
+- Consistent follow-up systems (most pipeline comes after the first message)
+- Strong offers that give prospects a reason to respond
+- Scalable systems that remove reliance on individual effort
 
-This is similar to how I already build ModlyAI, where I use AI tools as a multiplier for output rather than relying on them blindly.
+I also learned that AI is most effective when used to analyze and connect signals, not just generate content.
+
+This project shifted my perspective from writing better messages to building better systems.
 
 ---
 
