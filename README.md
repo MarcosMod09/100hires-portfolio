@@ -4,14 +4,19 @@
 
 ## Chosen Topic
 
-AI-Powered SEO Content Production
+Cold Outreach Pipeline for B2B SaaS
 
-This topic was selected because it combines:
-- AI tools
-- scalable content systems
-- and real-world demand for growth in B2B SaaS
+I chose this topic because it directly focuses on how companies generate pipeline through outbound systems.
 
-The research focuses on how experts use AI, content, and outbound strategies to generate pipeline and drive growth.
+It also aligns with my experience building ModlyAI, where understanding how to reach and convert potential customers is critical.
+
+Through this project, I analyzed how top experts approach:
+- targeting the right prospects
+- crafting effective messages
+- executing multi-touch outreach
+- and building repeatable outbound systems
+
+The goal was to go beyond individual tactics and understand how to build a complete outbound pipeline that drives consistent results.
 
 ---
 
