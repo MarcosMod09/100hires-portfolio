@@ -20,17 +20,53 @@ The goal was to go beyond individual tactics and understand how to build a compl
 
 ---
 
-## Project Overview
+## Research Summary
 
-This project analyzes 10 experts in outbound, sales, and growth to identify patterns that drive real pipeline.
+### What I Collected
 
-The goal was not just to collect content, but to synthesize it into a practical outbound system that can be used in real-world B2B SaaS environments.
+For each expert, I collected and analyzed:
 
-The output includes:
-- Expert research (LinkedIn + YouTube)
-- Key patterns across experts
-- A structured outbound playbook
-- Practical outreach templates
+- LinkedIn posts (to understand real-time thinking and tactics)
+- YouTube content (for deeper frameworks and explanations, where available)
+- Patterns across all sources (to identify repeatable systems)
+
+All content was organized into:
+- `/research/linkedin-posts/` → structured analysis per expert
+- `/research/youtube-transcripts/` → key insights from videos
+- `/research/other/` → synthesis (playbook, templates, patterns)
+
+---
+
+### Why I Chose These Experts
+
+The 10 experts were selected based on:
+
+- Real-world experience in outbound, sales, or growth  
+- Consistent, high-quality content focused on execution  
+- Proven results in B2B SaaS environments  
+- Ability to provide actionable insights, not just theory  
+
+They were also chosen to cover different parts of the outbound pipeline:
+
+- **Targeting & Signals** → Morgan J Ingram  
+- **Messaging & Offers** → Alex Berman, Nick Abraham  
+- **Sales Psychology** → Josh Braun  
+- **Execution & Process** → Armand Farrokh  
+- **Positioning & Strategy** → Guillaume Moubeche, Chris Orlob  
+- **Systems & Scaling** → Kyle Coleman  
+- **Content & Distribution** → Devin Reed  
+- **Tools & Optimization** → Lavender  
+
+---
+
+### Key Outcome
+
+Instead of treating each expert separately, I focused on identifying common patterns and combining them into a single outbound system.
+
+This resulted in:
+- a structured outreach playbook  
+- practical messaging templates  
+- and a clear framework for building pipeline through outbound  
 
 ---
 
