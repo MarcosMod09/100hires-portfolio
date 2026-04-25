@@ -24,7 +24,7 @@ This document lists all experts included in this research, along with links to t
 
 ### Guillaume Moubeche
 - LinkedIn: https://www.linkedin.com/in/guillaumemoubeche/
-- YouTube: https://www.youtube.com/@lemlist
+- YouTube: https://www.youtube.com/@GuillaumeMoubeche
 - Date Accessed: April 2026
 - Annotation: Founder of lemlist. Focuses on outbound strategy, positioning, and real-world founder insights.
 
