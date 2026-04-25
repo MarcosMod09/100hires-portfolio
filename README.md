@@ -100,6 +100,34 @@ This project shifted my perspective from writing better messages to building bet
 
 ---
 
+## Example Application
+
+To demonstrate how this system works in practice, here’s how I would apply it:
+
+### Target
+Furniture / ecommerce companies hiring marketing or growth roles
+
+### Signal
+Hiring for “Growth Manager” or “Ecommerce Manager”
+
+### Message
+
+Noticed you're hiring a Growth Manager — usually means you're trying to improve conversion and performance.
+
+We help furniture brands show customers how products actually look in their space, which reduces returns and increases conversion.
+
+Open to exploring?
+
+### Follow-Up
+
+Sent a quick example of how this works:
+
+[demo / explanation]
+
+Thought it might be easier than a long message.
+
+---
+
 ## Proof of Work
 
 - **Live Project:** https://modlyai.tech  
