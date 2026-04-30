@@ -31,6 +31,8 @@ Use high-intent signals to identify companies that are more likely to need your 
 ### Key Insight
 > The best outbound comes from connecting real-world signals to messaging.
 
+Source: Morgan J Ingram, LinkedIn post on using hiring signals for outbound targeting, accessed April 2026
+
 ---
 
 ## Step 2 — Messaging (Alex Berman)
@@ -56,6 +58,8 @@ We help teams increase qualified meetings without increasing headcount."
 ### Key Insight
 > Clarity beats creativity in outbound.
 
+Source: Alex Berman, LinkedIn post on simple outbound messaging frameworks, accessed April 2026
+
 ---
 
 ## Step 3 — Tone & Psychology (Josh Braun)
@@ -79,6 +83,8 @@ Remove pressure. Increase trust.
 
 ### Key Insight
 > People respond to calm, not neediness.
+
+Source: Josh Braun, LinkedIn posts on low-pressure selling and detachment from outcome, accessed April 2026
 
 ---
 
@@ -111,6 +117,8 @@ Execution is structured, not improvised.
 ### Key Insight
 > Consistency and structure outperform random effort.
 
+Source: Armand Farrokh, LinkedIn post on multi-touch outreach and sales execution systems, accessed April 2026
+
 ---
 
 ## Step 5 — Follow-Up System (Morgan J Ingram)
@@ -131,6 +139,8 @@ Most pipeline comes from follow-ups, not first messages.
 
 ### Key Insight
 > Outreach is a process, not a one-shot attempt.
+
+Source: Morgan J Ingram, LinkedIn post on follow-up strategies and multi-touch outreach, accessed April 2026
 
 ---
 
@@ -155,6 +165,8 @@ Personalization should show understanding, not just surface-level research.
 ### Key Insight
 > Signal > credentials. Insight > templates.
 
+Source: Guillaume Moubeche, LinkedIn posts on signal-based personalization and outbound strategy, accessed April 2026
+
 ---
 
 ## Step 7 — Handling Burned Accounts (Morgan J Ingram)
@@ -175,6 +187,8 @@ Accounts may be over-contacted or resistant.
 
 ### Key Insight
 > You don’t fix bad outreach by doing more of it.
+
+Source: Morgan J Ingram, LinkedIn post on recovering over-contacted accounts and rebuilding trust, accessed April 2026
 
 ---
 
@@ -197,6 +211,8 @@ Scale through systems, not brute force.
 
 ### Key Insight
 > Systems create consistency. Consistency creates pipeline.
+
+Source: Kyle Coleman, LinkedIn post on systems, productivity, and scaling processes, accessed April 2026
 
 ---
 
